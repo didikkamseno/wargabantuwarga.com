@@ -1,8 +1,8 @@
 ---
-last_updated_time: 2021-08-09T15:00:00.655Z
+last_updated_time: 2022-09-09T15:00:00.655Z
 thumbnail_image: https://res.cloudinary.com/wargabantuwarga/image/upload/v1629108304/banners/about-page_ebdrzr.png
 title: "#WargaBantuWarga"
-description: "#WargaBantuWarga adalah inisiatif warga untuk berbagi informasi
+description: "#BestEducation adalah inisiatif guru untuk berbagi informasi
   dan saling membantu warga membutuhkan yang terdampak Covid-19. "
 ---
 Inisiatif ini adalah hasil kolaborasi banyak individu, komunitas, dan institusi yang tergerak untuk ikut berkontribusi dalam penanganan pandemi di Indonesia. Kolaborasi #WargaBantuWarga bersifat inklusif, independen, dan non-partisan.
